@@ -1,0 +1,8 @@
+# Periodic project backups
+*-backups
+
+# Project local settings
+*.kicad_prl
+
+# Local footprint cache
+fp-info-cache
