@@ -376,7 +376,7 @@
         )
       )
     )
-    (symbol "typerwriter:MAX3243" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (symbol "retrotype:MAX3243" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -12.7 43.18 0)
         (effects (font (size 1.27 1.27)) (justify right))
       )
@@ -1478,7 +1478,7 @@
     (pin "1" (uuid 01dd9915-af0a-4a6b-a0ab-fe270bb9534a))
   )
 
-  (symbol (lib_id "typerwriter:MAX3243") (at 130.81 111.76 0) (unit 1)
+  (symbol (lib_id "retrotype:MAX3243") (at 130.81 111.76 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2d4f5e01-6ac3-4ec6-8bc7-694c7da3a44b)
     (property "Reference" "U7" (id 0) (at 116.84 68.58 0)
