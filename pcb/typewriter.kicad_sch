@@ -1307,6 +1307,9 @@
     (path "/00000000-0000-0000-0000-0000630a2882/346ee969-ebd6-4dca-bae0-7d74b70cffd8"
       (reference "R29") (unit 1) (value "3k") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006317e61f/701b40d4-dace-45b6-9a66-a2edea7009e9"
+      (reference "RV1") (unit 1) (value "25VAC") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006325b901/00000000-0000-0000-0000-000063261ef7"
       (reference "U1") (unit 1) (value "ATmega328P-MM") (footprint "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm")
     )

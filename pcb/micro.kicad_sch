@@ -1413,9 +1413,9 @@
     )
   )
 
-  (bus_alias "STEPPERS" (members "DAISY_WHEEL_STEPPER_STEP" "CARRIAGE_STEPPER_STEP"))
-  (bus_alias "RS232" (members "TX" "DTR" "RTS" "RX" "CTS" "DSR" "RI" "DCD"))
   (bus_alias "I2C" (members "SCL" "SDA"))
+  (bus_alias "RS232" (members "TX" "DTR" "RTS" "RX" "CTS" "DSR" "RI" "DCD"))
+  (bus_alias "STEPPERS" (members "DAISY_WHEEL_STEPPER_STEP" "CARRIAGE_STEPPER_STEP"))
   (junction (at 207.01 74.93) (diameter 0) (color 0 0 0 0)
     (uuid 0143fd03-43da-4cd2-a487-ede9c9e9b62b)
   )
