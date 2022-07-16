@@ -6,3 +6,8 @@
 
 # Local footprint cache
 fp-info-cache
+
+# Plot outputs
+*.pdf
+*.plt
+*.svg
